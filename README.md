@@ -27,7 +27,7 @@
 
 ### 📫 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/shivam-mittal-464a9031a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
   <a href="mailto:shivammittal42006@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail" /></a>
 </p>
 
