@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shivam Mittal</h1>
+<h1 align="center">Hi I'm Shivam Mittal</h1>
 <h3 align="center">Open-Source Contributor | learning And exploring field of Interest </h3>
 
 ---
 
-### 🌟 Current Status 
+### Current Status 
 - Actively contributing to **global open-source projects**  
 - Collaborating with developers worldwide   
 - Engaging in meaningful discussions, issue triaging, and PR reviews   
@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,go,typescript" />
 </p>
