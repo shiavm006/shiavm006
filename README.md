@@ -5,7 +5,7 @@
 
 ### Current Status 
 - Actively contributing to **global open-source projects**  
-- Collaborating with developers worldwide   
+- Collaborating with developers worldwide to Work on Open Soucre projects  
 - Engaging in meaningful discussions, issue triaging, and PR reviews   
 - Learning and implementing **Model Context Protocol (MCP)**  
 - Building MCP servers to connect AI agents with APIs and tools  
