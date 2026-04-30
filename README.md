@@ -14,7 +14,7 @@
 
 ### Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,go,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,go,typescript" />
 </p>
 
 ### Ecosystem Exposure
