@@ -3,25 +3,10 @@
 
 ---
 
-### Current Status 
-- Actively contributing to **global open-source projects**  
-- Collaborating with developers worldwide to Work on Open Soucre projects  
-- Engaging in meaningful discussions, issue triaging, and PR reviews   
-- Building MCP servers to connect AI agents with APIs and tools  
-- Experimenting with new ways to enhance **AI-agent interoperability**  
-
----
-
 ### Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,typescript" />
 </p>
-
-### Ecosystem Exposure
-- **Documentation & Workflows:** Markdown, Git/GitHub workflows, Static site generators
-- **Cloud-Native Tools:** Kubernetes, PostgreSQL, CloudNativePG
-- **AI Integrations:** MCP, AI agent interfacing
-
 
 
 ### Connect with Me  
