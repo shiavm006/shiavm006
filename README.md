@@ -1,19 +1,22 @@
-<h1 align="center">Hi I'm Shivam Mittal</h1>
-<h3 align="center">Open-Source Contributor | learning And exploring field of Interest </h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=A9B1D6&center=true&vCenter=true&width=500&lines=%24+whoami;%24+cat+about.txt;%24+./hello.sh" alt="terminal" />
+
+</div>
 
 ---
 
-### Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,typescript" />
-</p>
+```bash
+$ whoami
+> shivam — aspiring AI/MLOps engineer
 
+$ cat about.txt
+> working_on    : deploying ML models on Kubernetes
+> collab_on     : open-source AI infra
+> need_help     : production LLM workflows
+> learning      : LLMOps, cloud-native AI
+> ask_me        : docker, kubernetes, mlops
+> fun_fact      : a model without infra is just a .pt file
 
-### Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/shivam-mittal-464a9031a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:shivammittal42006@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail" /></a>
-</p>
-
----
-
+$ exit
+```
