@@ -18,5 +18,20 @@ $ cat about.txt
 > ask_me        : docker, kubernetes, mlops
 > fun_fact      : a model without infra is just a .pt file
 
+$ ./connect.sh
+> email     → your@email.com
+> linkedin  → /in/your-username
+> github    → @your-username
+
 $ exit
 ```
+
+---
+
+<div align="center">
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
