@@ -8,7 +8,7 @@
 
 ```bash
 $ whoami
-> shivam — aspiring AI/MLOps engineer
+> shivam —  AI/MLOps engineer
 
 $ cat about.txt
 > working_on    : deploying ML models on Kubernetes
@@ -17,11 +17,6 @@ $ cat about.txt
 > learning      : LLMOps, cloud-native AI
 > ask_me        : docker, kubernetes, mlops
 > fun_fact      : a model without infra is just a .pt file
-
-$ ./connect.sh
-> email     → your@email.com
-> linkedin  → /in/your-username
-> github    → @your-username
 
 $ exit
 ```
